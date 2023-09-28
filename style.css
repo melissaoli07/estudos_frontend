@@ -1,0 +1,11 @@
+#bigm{
+    border: 2px solid red;
+    padding: 0 50px; 
+}
+
+[data-cor]{
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
